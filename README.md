@@ -15,4 +15,8 @@ Files in this directory
         -Source: https://en.wikipedia.org/wiki/2012_United_States_presidential_election
       -2008_by_state
         -Source: https://en.wikipedia.org/wiki/2008_United_States_presidential_election
+      -2004_by_state:
+        -Source: https://en.wikipedia.org/wiki/2004_United_States_presidential_election
+      -2000_by_state:
+        -Source: https://en.wikipedia.org/wiki/2000_United_States_presidential_election
       
