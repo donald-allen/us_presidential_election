@@ -1,1 +1,10 @@
 # us_presidential_election
+
+Files in this directory
+-Election_results_by_state.xlsx 
+  - contains US presidentials results by state
+    - Worksheeets
+      2016_by_state
+        Source: https://en.wikipedia.org/wiki/2016_United_States_presidential_election
+      
+    
