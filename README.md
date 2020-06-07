@@ -8,4 +8,6 @@ Files in this directory
         -Source: https://en.wikipedia.org/wiki/2016_United_States_presidential_election
       -2012_by_state
         -Source: https://en.wikipedia.org/wiki/2012_United_States_presidential_election
+      -2008_by_state
+        -Source: https://en.wikipedia.org/wiki/2008_United_States_presidential_election
     
