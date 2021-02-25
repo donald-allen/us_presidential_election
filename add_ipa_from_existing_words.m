@@ -1,5 +1,5 @@
 function out_text = add_ipa_from_existing_words(thisWord, word_list,ipa_list)
-out_text = '';
+out_text = ''; 
 proposed_word = '';
 
 % Search for singular it this word is a plural
